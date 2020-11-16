@@ -1,7 +1,6 @@
 #!/usr/bin/env python3.7
 
-# import assignment code
-from cs585_vigenere import *
+from vigenere import *
 
 # demo start
 
