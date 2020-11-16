@@ -5,7 +5,7 @@ from vigenere import *
 # demo start
 
 # Demo 1 - Encrypt/Decrypt 
-t = "Hello Professor Zhu!"
+t = "HelloWorld"
 k = "PHD"
 print("-------------------------------------\nDEMO 1:\ntext=" + t + " key=" + k + "\n" + "-------------------------------------")
 e = vigenere(t,k,Method.ENCRYPT)
